@@ -2,6 +2,7 @@ import React from 'react';
 import Card from '../components/Card';
 import twitter from '../img/Twitterclone.png';
 import likedislike from '../img/like-dislike.png';
+import upskill from '../img/upskill.png';
 function Projects() {
   return (
     <div className="project-container">
@@ -16,6 +17,11 @@ function Projects() {
           title="Like/Dislike"
           img={likedislike}
           link="https://like-dislike-av.web.app"
+        />
+        <Card
+          title="Upskill-fund"
+          img={upskill}
+          link="https://upskill-fund.github.io/upskillfund.org/"
         />
       </div>
     </div>
