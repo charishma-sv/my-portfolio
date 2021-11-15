@@ -7,6 +7,7 @@ class Skills extends Component {
         'HTML',
         'CSS',
         'JAVASCRIPT',
+        'TYPESCRIPT(beginner)',
         'BOOTSTRAP',
         'REACT JS',
         'FIREBASE',
