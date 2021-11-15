@@ -9,9 +9,9 @@ function Projects() {
       <h1 className="project-header">My Projects</h1>
       <div className="project-div">
         <Card
-          title="Twitter clone"
-          img={twitter}
-          link="https://twt-react-app.web.app"
+          title="Upskill-fund"
+          img={upskill}
+          link="https://upskill-fund.github.io/upskillfund.org/"
         />
         <Card
           title="Like/Dislike"
@@ -19,9 +19,9 @@ function Projects() {
           link="https://like-dislike-av.web.app"
         />
         <Card
-          title="Upskill-fund"
-          img={upskill}
-          link="https://upskill-fund.github.io/upskillfund.org/"
+          title="Twitter clone"
+          img={twitter}
+          link="https://twt-react-app.web.app"
         />
       </div>
     </div>

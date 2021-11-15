@@ -10,6 +10,8 @@ class Skills extends Component {
         'BOOTSTRAP',
         'REACT JS',
         'FIREBASE',
+        'GIT',
+        'STRIPE API',
       ],
     };
   }
